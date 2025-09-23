@@ -57,5 +57,8 @@ SQLite (banco de dados)
 
 Pillow (para manipulação de imagens)
 
+## ✏ Autores
 
+Matheus Alves : https://github.com/devematheus010/
+Alex Cunha: https://github.com/imalexcode/
 
