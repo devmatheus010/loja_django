@@ -59,5 +59,5 @@ SQLite (banco de dados)
 ## Autores ✏️
 
 * **Matheus Alves**- Desenvolvedor - [GitHub](https://github.com/devmatheus010)
-* **Alex Cunha** - Professor - [GitHub](https://github.com/imealexcode)
+* **Alex Cunha** - Professor - [GitHub](https://github.com/imalexcode)
 
