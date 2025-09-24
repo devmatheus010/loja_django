@@ -4,16 +4,6 @@ Este é um projeto acadêmico desenvolvido para a faculdade. O site permite list
 
 ---
 
-## 🖥 Pré-requisitos
-
-- Python 3.12
-- Pip
-- Virtualenv (opcional, mas recomendado)
-
----
-
-
----
 
 ## ⚙️ Como rodar o projeto localmente
 
@@ -35,6 +25,16 @@ Instale as dependências:
 
 pip install -r requirements.txt
 
+Realize as migrações
+
+python manage.py migrate
+
+Crie um superusuário (opcional, para acessar o admin):
+
+python manage.py createsuperuser
+
+
+
 Rode o servidor Django:
 
 python manage.py runserver
@@ -55,10 +55,9 @@ Bootstrap 5
 
 SQLite (banco de dados)
 
-Pillow (para manipulação de imagens)
 
-## ✏ Autores
+## Autores ✏️
 
-Matheus Alves : https://github.com/devematheus010/
-Alex Cunha: https://github.com/imalexcode/
+* **Matheus Alves**- Desenvolvedor - [GitHub](https://github.com/devmatheus010)
+* **Alex Cunha** - Professor - [GitHub](https://github.com/imealexcode)
 
